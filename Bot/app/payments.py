@@ -1,7 +1,7 @@
 from aiogram.types import LabeledPrice
 import json
 
-payment_api = '381764678:TEST:122142'
+payment_api = 'payment_api'
 
 
 
